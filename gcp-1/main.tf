@@ -1,5 +1,5 @@
 provider "google" {
-  project = var.project_ops_sbx
-  region  = var.region
-  zone    = var.zone
+  project = "ops-sbx-ae9e03"
+  region  = "us-east5"
+  zone    = "us-east5-a"
 }
